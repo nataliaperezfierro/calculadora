@@ -1,9 +1,9 @@
 CREADO POR:
 
--Jonathan Gajardo
--Valentín Urrea
--Ximena Cortés
--Natalia Pérez
+Jonathan Gajardo: https://github.com/JonaFlan/calculadora.frontend
+Valentín Urrea: https://github.com/ValentinUr/calculadora.frontend
+Ximena Cortés: https://github.com/CortesRodriguez/calduladora.frontend
+Natalia Pérez: https://github.com/nataliaperezfierro/calculadora
 
 
 CALCULADORA.HTML

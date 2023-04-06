@@ -1,4 +1,4 @@
-|1  qCREADO POR:
+CREADO POR:
 
 -Jonathan Gajardo
 -Valentín Urrea
